@@ -1,2 +1,2 @@
 # eeg-setup-and-circuitry
-Creating a DIY Electroencephalogram.
+Design of a DIY Electroencephalogram.
