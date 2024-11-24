@@ -1,4 +1,4 @@
-# eeg-setup-and-circuitry
+# EEG Setup and Circuitry
 Design of a DIY Electroencephalogram.
 
 For the "Annual Missouri Southern Regional Science Fair, 2025"
@@ -41,5 +41,5 @@ Average cost of this setup: $60-$70 (not including shipping or the Raspberry Pi 
 
 <br>
 
-# Sources
+# Credits
 https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
