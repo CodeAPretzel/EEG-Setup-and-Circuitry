@@ -1,7 +1,4 @@
 # EEG Setup and Circuitry
-Design of a DIY Electroencephalogram.
-
-For the "Annual Missouri Southern Regional Science Fair, 2025"
 
 <br>
 
@@ -27,8 +24,6 @@ For the "Annual Missouri Southern Regional Science Fair, 2025"
 - 1x 220kΩ
 - 2x 270kΩ
 - 1x 1MΩ
-
-I recommend this kit [here](https://www.temu.com/-diy--kit---electronic-diy-kit-with-830-tie---for-arduino-r3-with-box-g-601099557582257.html?top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Fa83c7c5e-97b9-4aaa-aa48-0ed6fc665b7d.jpg&spec_gallery_id=2121861382&share_token=FH7a58p7TnH56VqfPLVNsLZYtQgscPyzD8-dDWMxBWpMrj-4rj3PURj8zKNBTbACvUaMK69FhU_Gu9N_fr04dMvWLCHYLS1L6LVo9as-9Uc2zYTIYedG38tKPCnq8atN&_x_vst_scene=adg&_x_ads_sub_channel=shopping&_x_ns_prz_type=-1&_x_ns_sku_id=17592385056225&_x_ns_gid=601099557582257&_x_ads_channel=google&_x_gmc_account=647900107&_x_login_type=Google&_x_ads_account=1919904652&_x_ads_set=21793035563&_x_ads_id=170229790242&_x_ads_creative_id=716409130519&_x_ns_source=g&_x_ns_gclid=Cj0KCQiAuou6BhDhARIsAIfgrn5nx91a6zUXxFRhGOIKuR1Sym9xwuMoK5ZbnMUrh4hR19y3_S8wU6EaAomnEALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=17592385056225&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=Cj8KCQiAl4a6BhD0ARIuAOFbxqDG7J3xnKyOjQCZ-563J4ObeHVpad0EK6s6BWoDyNBjD-nTi_Jx9z683BoC01E&_x_ns_gbraid=0AAAAAo4mICGra0s5HMG23iF8FhbpVh-3T&_x_ns_targetid=pla-535945525583&refer_page_name=kuiper&refer_page_id=13554_1732489970085_s10y0wd6oc&refer_page_sn=13554&_x_sessn_id=spjgzexk7g) to get most of the parts above.
 
 <b>Other Items</b>
 - [Audio cable](https://www.amazon.com/Cables-Unlimited-AUD-1100-06-6-Feet-Stereo/dp/B000SE6IV8/ref=pd_sbs_t_7)
